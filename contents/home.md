@@ -6,11 +6,11 @@
 
 
 
- ![img](https://2279915269.github.io/TJUT.jpg) 
+<img src="C:/Users/lenovo/AppData/Roaming/Typora/typora-user-images/1732350388645.png" alt="1732350388645" style="zoom:25%;" /> 
 
- **School of Computer Science and Engineering, Tianjin University of Technology(TJUT)**
+**School of Computer Science and Engineering, Tianjin University of Technology(TJUT)**
 2023 - Present 
 **Undergraduate Student **
-GPA Ranking: **6**/174 (Last term: **6**/174)
+GPA Ranking: **7**/174 (Last term: **6**/174)
 Research Advisor: Prof. [Meng Zhao](https://cs.tjut.edu.cn/info/1226/1516.htm)
 
