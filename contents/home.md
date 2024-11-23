@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+ I am a sophomore undergraduate student in the [School of Computer Science and Engineering](https://cs.tjut.edu.cn/), [Tianjin University of Technology](https://www.tjut.edu.cn/) with gpa ranking **3**/174.  I am honored to be co-advised by [Meng Zhao](https://cs.tjut.edu.cn/info/1226/1516.htm). 
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+####  [Email](zhizehao39@stud.tjut.edu.cn)
 
-#### Email
-sli[at]cumt.edu.cn
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
 
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+ ![img](https://2279915269.github.io/TJUT.jpg) 
+
+ **School of Computer Science and Engineering, Tianjin University of Technology(TJUT)**
+2023 - Present 
+**Undergraduate Student **
+GPA Ranking: **6**/174 (Last term: **6**/174)
+Research Advisor: Prof. [Meng Zhao](https://cs.tjut.edu.cn/info/1226/1516.htm)
 

@@ -1,0 +1,1 @@
+-  2023: Tianjin University of Technology First-class Scholarship(¥1600 RMB) 
